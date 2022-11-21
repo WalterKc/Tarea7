@@ -1,7 +1,4 @@
-//const nombre=document.formulario.nombre.value
-//const comportamiento=document.formulario.comportamiento.value
-//const ciudad=document.formulario.ciudad.value
-//const Regalo=document.formulario["descripcion-regalo"].value
+
 
 function nombre(){
     let nombre=document.formulario.nombre.value
